@@ -33,5 +33,7 @@ git clone https://github.com/LittleCat1041/deadline-overlord.git
 ### 2. Install Dependencies
 ```bash
 cd deadline-overlord
+```
+```bash
 pip install -r requirements.txt
 ```

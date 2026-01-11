@@ -21,6 +21,9 @@ A powerful Command-Line Interface (CLI) Task Manager built with **Python**, feat
 - **Export Capability:** Convert your task list into a **CSV file** (`Events.csv`) for external use.
 - **Unit Testing:** Core functions are fully tested using **pytest** to ensure reliability.
 
+## Tech Stack
+ - Python, Rich Library, JSON/CSV
+
 ## Command Guide
 Once the program is running, you can use the following commands:
 - `add` - Create a new task (Name, Due Date, Tag, Priority).
@@ -31,11 +34,7 @@ Once the program is running, you can use the following commands:
 - `export` - Save tasks to a CSV file.
 - `quit` - Exit the program.
 
-## Tech Stack
- - Python, Rich Library, JSON/CSV
-
 ## How to Run
-
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/LittleCat1041/deadline-overlord.git
@@ -55,5 +54,7 @@ python project.py
 ```bash
 pytest test_project.py
 ```
+## Project Context
+This project was submitted as the final project for CS50's Introduction to Programming with Python (Harvard University).
 
 

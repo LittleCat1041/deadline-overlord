@@ -4,8 +4,6 @@ A powerful Command-Line Interface (CLI) Task Manager built with **Python**, feat
 
 ## Video Demo
 
-*(Click the link below to watch the project demonstration)*
-
 [**▶️ Watch the Demo Video Here**](https://youtu.be/eh_n842N5tM)
 
 ---

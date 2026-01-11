@@ -33,7 +33,7 @@ Once the program is running, you can use the following commands:
 - `quit` - Exit the program.
 
 ## How to Run
-### 1. Clone the repository
+#### 1. Clone the repository
 ```bash
 git clone https://github.com/LittleCat1041/deadline-overlord.git
 ```

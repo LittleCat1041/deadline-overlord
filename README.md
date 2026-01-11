@@ -37,18 +37,18 @@ Once the program is running, you can use the following commands:
 ```bash
 git clone https://github.com/LittleCat1041/deadline-overlord.git
 ```
-### 2. Install Dependencies
+#### 2. Install Dependencies
 ```bash
 cd deadline-overlord
 ```
 ```bash
 pip install -r requirements.txt
 ```
-### 3. Run the Program
+#### 3. Run the Program
 ```bash
 python project.py
 ```
-### 4. Run Tests (Optional)
+#### 4. Run Tests (Optional)
 ```bash
 pytest test_project.py
 ```

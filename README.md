@@ -33,7 +33,7 @@ Once the program is running, you can use the following commands:
 - `quit` - Exit the program.
 
 ## How to Run
-#### 1. Clone the repository
+#### 1. Clone the Repository
 ```bash
 git clone https://github.com/LittleCat1041/deadline-overlord.git
 ```
@@ -44,7 +44,7 @@ cd deadline-overlord
 ```bash
 pip install -r requirements.txt
 ```
-#### 3. Run the Program
+#### 3. Start the Program
 ```bash
 python project.py
 ```

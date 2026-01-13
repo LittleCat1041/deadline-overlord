@@ -52,6 +52,10 @@ python project.py
 ```bash
 pytest test_project.py
 ```
+## Screenshot
+
+<img width="983" height="696" alt="image" src="https://github.com/user-attachments/assets/4aee8398-dc20-44fa-9e8e-2c7b766f9031" />
+
 ## Project Context
 This project was submitted as the final project for CS50's Introduction to Programming with Python (Harvard University).
 
